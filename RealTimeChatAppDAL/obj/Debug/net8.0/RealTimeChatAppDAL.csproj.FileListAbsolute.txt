@@ -1,0 +1,14 @@
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\bin\Debug\net8.0\RealTimeChatAppDAL.deps.json
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\bin\Debug\net8.0\RealTimeChatAppDAL.runtimeconfig.json
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\bin\Debug\net8.0\RealTimeChatAppDAL.dll
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\bin\Debug\net8.0\RealTimeChatAppDAL.pdb
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.csproj.AssemblyReference.cache
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.AssemblyInfoInputs.cache
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.AssemblyInfo.cs
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.csproj.CoreCompileInputs.cache
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.dll
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\refint\RealTimeChatAppDAL.dll
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.pdb
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\RealTimeChatAppDAL.genruntimeconfig.cache
+C:\Users\EvGeha3001\source\repos\RealTimeChatApp\RealTimeChatAppDAL\obj\Debug\net8.0\ref\RealTimeChatAppDAL.dll
