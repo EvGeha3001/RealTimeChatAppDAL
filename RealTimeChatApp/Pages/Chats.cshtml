@@ -1,0 +1,30 @@
+﻿@page
+@model RealTimeChatApp.Pages.ChatsModel
+@{
+    ViewData["Title"] = "List Of chats";
+}
+
+<h2>Your chats:</h2>
+
+<a class="btn btn-primary mb-3" asp-page="/AddChat">Add Chat</a>
+
+
+@if (Model.ChatRooms.Any())
+{
+    <ul>
+        @foreach (var chat in Model.ChatRooms)
+        {
+            <li>
+                <a asp-page="/Chat" asp-route-id="@chat.Id">
+                    <strong>@chat.Name</strong> @(chat.IsGroup ? "(Group)" : "(Personal)")
+                </a>
+                <br />
+                Created: @chat.CreatedAt?.ToString("g")
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>There is too quiet....</p>
+}
